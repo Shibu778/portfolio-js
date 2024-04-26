@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "First Principle Search of Quantum Point Defects",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "first principle Density functional theory to model point defect in solids to understand the thermodynamic, electronic, optical and magnetic properties",
+    url: "https://shibumeher.netlify.app/project/project1/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My First PyPI package",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created a Python package and uploaded it to PyPI. The package is combines ASE and spglib to extract symmetry information from any structure file",
+    url: "https://github.com/shibu778/structure2symmetry",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created from Wowchemy template and deployed to Netlify. Includes my experience, skills, projects, and talks.",
+    url: "https://shibumeher.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My Talks at Various Occasion",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Slides and abstract of my talks at various occasion.",
+    url: "https://shibumeher.netlify.app/event/",
   },
 ];
 
